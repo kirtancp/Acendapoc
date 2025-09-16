@@ -1,0 +1,144 @@
+{
+    "decision_table": [
+        {
+            "rule_id": "R1",
+            "conditions": {
+                "loan_id": "L001",
+                "credit_score_band": "Excellent",
+                "missed_payments": 12,
+                "average_payment": 3434.16,
+                "payment_regularity": 0.67
+            },
+            "outcome": {
+                "eligible": false,
+                "reason": "High risk due to missed payments or low credit score"
+            }
+        },
+        {
+            "rule_id": "R2",
+            "conditions": {
+                "loan_id": "L002",
+                "credit_score_band": "Excellent",
+                "missed_payments": 9,
+                "average_payment": 6992.41,
+                "payment_regularity": 0.75
+            },
+            "outcome": {
+                "eligible": false,
+                "reason": "High risk due to missed payments or low credit score"
+            }
+        },
+        {
+            "rule_id": "R3",
+            "conditions": {
+                "loan_id": "L001",
+                "credit_score_band": "Good",
+                "missed_payments": 12,
+                "average_payment": 3434.16,
+                "payment_regularity": 0.67
+            },
+            "outcome": {
+                "eligible": false,
+                "reason": "High risk due to missed payments or low credit score"
+            }
+        },
+        {
+            "rule_id": "R4",
+            "conditions": {
+                "loan_id": "L002",
+                "credit_score_band": "Good",
+                "missed_payments": 9,
+                "average_payment": 6992.41,
+                "payment_regularity": 0.75
+            },
+            "outcome": {
+                "eligible": false,
+                "reason": "High risk due to missed payments or low credit score"
+            }
+        },
+        {
+            "rule_id": "R5",
+            "conditions": {
+                "loan_id": "L001",
+                "credit_score_band": "Fair",
+                "missed_payments": 12,
+                "average_payment": 3434.16,
+                "payment_regularity": 0.67
+            },
+            "outcome": {
+                "eligible": false,
+                "reason": "High risk due to missed payments or low credit score"
+            }
+        },
+        {
+            "rule_id": "R6",
+            "conditions": {
+                "loan_id": "L002",
+                "credit_score_band": "Fair",
+                "missed_payments": 9,
+                "average_payment": 6992.41,
+                "payment_regularity": 0.75
+            },
+            "outcome": {
+                "eligible": false,
+                "reason": "High risk due to missed payments or low credit score"
+            }
+        },
+        {
+            "rule_id": "R7",
+            "conditions": {
+                "loan_id": "L001",
+                "credit_score_band": "Poor",
+                "missed_payments": 12,
+                "average_payment": 3434.16,
+                "payment_regularity": 0.67
+            },
+            "outcome": {
+                "eligible": false,
+                "reason": "High risk due to missed payments or low credit score"
+            }
+        },
+        {
+            "rule_id": "R8",
+            "conditions": {
+                "loan_id": "L002",
+                "credit_score_band": "Poor",
+                "missed_payments": 9,
+                "average_payment": 6992.41,
+                "payment_regularity": 0.75
+            },
+            "outcome": {
+                "eligible": false,
+                "reason": "High risk due to missed payments or low credit score"
+            }
+        },
+        {
+            "rule_id": "R9",
+            "conditions": {
+                "loan_id": "L001",
+                "credit_score_band": "Very Poor",
+                "missed_payments": 12,
+                "average_payment": 3434.16,
+                "payment_regularity": 0.67
+            },
+            "outcome": {
+                "eligible": false,
+                "reason": "High risk due to missed payments or low credit score"
+            }
+        },
+        {
+            "rule_id": "R10",
+            "conditions": {
+                "loan_id": "L002",
+                "credit_score_band": "Very Poor",
+                "missed_payments": 9,
+                "average_payment": 6992.41,
+                "payment_regularity": 0.75
+            },
+            "outcome": {
+                "eligible": false,
+                "reason": "High risk due to missed payments or low credit score"
+            }
+        }
+    ]
+}
