@@ -1,512 +1,512 @@
 {
-   "Loans_Data":[
-      "L001":[
-         {
-            "date":"2022-09-11",
-            "payment":4529.39,
-            "principal_paid":3841.89,
-            "interest_paid":687.5,
-            "remaining_balance":146158.11
-         },
-         {
-            "date":"2022-10-11",
-            "payment":4529.39,
-            "principal_paid":3859.49,
-            "interest_paid":669.89,
-            "remaining_balance":142298.62
-         },
-         {
-            "date":"2022-11-10",
-            "payment":4529.39,
-            "principal_paid":3877.18,
-            "interest_paid":652.2,
-            "remaining_balance":138421.44
-         },
-         {
-            "date":"2022-12-10",
-            "payment":4529.39,
-            "principal_paid":3894.95,
-            "interest_paid":634.43,
-            "remaining_balance":134526.48
-         },
-         {
-            "date":"2023-01-09",
-            "payment":4529.39,
-            "principal_paid":3912.81,
-            "interest_paid":616.58,
-            "remaining_balance":130613.68
-         },
-         {
-            "date":"2023-02-08",
-            "payment":4529.39,
-            "principal_paid":3930.74,
-            "interest_paid":598.65,
-            "remaining_balance":126682.94
-         },
-         {
-            "date":"2023-03-10",
-            "payment":4529.39,
-            "principal_paid":3948.76,
-            "interest_paid":580.63,
-            "remaining_balance":122734.18
-         },
-         {
-            "date":"2023-04-09",
-            "payment":4529.39,
-            "principal_paid":3966.85,
-            "interest_paid":562.53,
-            "remaining_balance":118767.33
-         },
-         {
-            "date":"2023-05-09",
-            "payment":4529.39,
-            "principal_paid":3985.04,
-            "interest_paid":544.35,
-            "remaining_balance":114782.3
-         },
-         {
-            "date":"2023-06-08",
-            "payment":4529.39,
-            "principal_paid":4003.3,
-            "interest_paid":526.09,
-            "remaining_balance":110779.0
-         },
-         {
-            "date":"2023-07-08",
-            "payment":4529.39,
-            "principal_paid":4021.65,
-            "interest_paid":507.74,
-            "remaining_balance":106757.35
-         },
-         {
-            "date":"2023-08-07",
-            "payment":4529.39,
-            "principal_paid":4040.08,
-            "interest_paid":489.3,
-            "remaining_balance":102717.27
-         },
-         {
-            "date":"2023-09-06",
-            "payment":4529.39,
-            "principal_paid":4058.6,
-            "interest_paid":470.79,
-            "remaining_balance":98658.67
-         },
-         {
-            "date":"2023-10-06",
-            "payment":4529.39,
-            "principal_paid":4077.2,
-            "interest_paid":452.19,
-            "remaining_balance":94581.47
-         },
-         {
-            "date":"2023-11-05",
-            "payment":4529.39,
-            "principal_paid":4095.89,
-            "interest_paid":433.5,
-            "remaining_balance":90485.58
-         },
-         {
-            "date":"2023-12-05",
-            "payment":4529.39,
-            "principal_paid":4114.66,
-            "interest_paid":414.73,
-            "remaining_balance":86370.92
-         },
-         {
-            "date":"2024-01-04",
-            "payment":4529.39,
-            "principal_paid":4133.52,
-            "interest_paid":395.87,
-            "remaining_balance":82237.4
-         },
-         {
-            "date":"2024-02-03",
-            "payment":4529.39,
-            "principal_paid":4152.46,
-            "interest_paid":376.92,
-            "remaining_balance":78084.94
-         },
-         {
-            "date":"2024-03-04",
-            "payment":4529.39,
-            "principal_paid":4171.5,
-            "interest_paid":357.89,
-            "remaining_balance":73913.44
-         },
-         {
-            "date":"2024-04-03",
-            "payment":4529.39,
-            "principal_paid":4190.62,
-            "interest_paid":338.77,
-            "remaining_balance":69722.83
-         },
-         {
-            "date":"2024-05-03",
-            "payment":4529.39,
-            "principal_paid":4209.82,
-            "interest_paid":319.56,
-            "remaining_balance":65513.01
-         },
-         {
-            "date":"2024-06-02",
-            "payment":4529.39,
-            "principal_paid":4229.12,
-            "interest_paid":300.27,
-            "remaining_balance":61283.89
-         },
-         {
-            "date":"2024-07-02",
-            "payment":4529.39,
-            "principal_paid":4248.5,
-            "interest_paid":280.88,
-            "remaining_balance":57035.39
-         },
-         {
-            "date":"2024-08-01",
-            "payment":4529.39,
-            "principal_paid":4267.97,
-            "interest_paid":261.41,
-            "remaining_balance":52767.42
-         },
-         {
-            "date":"2024-08-31",
-            "payment":4529.39,
-            "principal_paid":4287.53,
-            "interest_paid":241.85,
-            "remaining_balance":48479.88
-         },
-         {
-            "date":"2024-09-30",
-            "payment":4529.39,
-            "principal_paid":4307.19,
-            "interest_paid":222.2,
-            "remaining_balance":44172.69
-         },
-         {
-            "date":"2024-10-30",
-            "payment":4529.39,
-            "principal_paid":4326.93,
-            "interest_paid":202.46,
-            "remaining_balance":39845.77
-         },
-         {
-            "date":"2024-11-29",
-            "payment":4529.39,
-            "principal_paid":4346.76,
-            "interest_paid":182.63,
-            "remaining_balance":35499.01
-         },
-         {
-            "date":"2024-12-29",
-            "payment":4529.39,
-            "principal_paid":4366.68,
-            "interest_paid":162.7,
-            "remaining_balance":31132.33
-         },
-         {
-            "date":"2025-01-28",
-            "payment":4529.39,
-            "principal_paid":4386.7,
-            "interest_paid":142.69,
-            "remaining_balance":26745.63
-         },
-         {
-            "date":"2025-02-27",
-            "payment":4529.39,
-            "principal_paid":4406.8,
-            "interest_paid":122.58,
-            "remaining_balance":22338.83
-         },
-         {
-            "date":"2025-03-29",
-            "payment":4529.39,
-            "principal_paid":4427.0,
-            "interest_paid":102.39,
-            "remaining_balance":17911.83
-         },
-         {
-            "date":"2025-04-28",
-            "payment":4529.39,
-            "principal_paid":4447.29,
-            "interest_paid":82.1,
-            "remaining_balance":13464.54
-         },
-         {
-            "date":"2025-05-28",
-            "payment":4529.39,
-            "principal_paid":4467.67,
-            "interest_paid":61.71,
-            "remaining_balance":8996.87
-         },
-         {
-            "date":"2025-06-27",
-            "payment":4529.39,
-            "principal_paid":4488.15,
-            "interest_paid":41.24,
-            "remaining_balance":4508.72
-         },
-         {
-            "date":"2025-07-27",
-            "payment":4529.39,
-            "principal_paid":4508.72,
-            "interest_paid":20.66,
-            "remaining_balance":0.0
-         }
-      ],
-      "L002":[
-         {
-            "date":"2022-09-11",
-            "payment":10568.57,
-            "principal_paid":8964.4,
-            "interest_paid":1604.17,
-            "remaining_balance":341035.6
-         },
-         {
-            "date":"2022-10-11",
-            "payment":10568.57,
-            "principal_paid":9005.49,
-            "interest_paid":1563.08,
-            "remaining_balance":332030.12
-         },
-         {
-            "date":"2022-11-10",
-            "payment":10568.57,
-            "principal_paid":9046.76,
-            "interest_paid":1521.8,
-            "remaining_balance":322983.35
-         },
-         {
-            "date":"2022-12-10",
-            "payment":10568.57,
-            "principal_paid":9088.23,
-            "interest_paid":1480.34,
-            "remaining_balance":313895.13
-         },
-         {
-            "date":"2023-01-09",
-            "payment":10568.57,
-            "principal_paid":9129.88,
-            "interest_paid":1438.69,
-            "remaining_balance":304765.25
-         },
-         {
-            "date":"2023-02-08",
-            "payment":10568.57,
-            "principal_paid":9171.72,
-            "interest_paid":1396.84,
-            "remaining_balance":295593.52
-         },
-         {
-            "date":"2023-03-10",
-            "payment":10568.57,
-            "principal_paid":9213.76,
-            "interest_paid":1354.8,
-            "remaining_balance":286379.76
-         },
-         {
-            "date":"2023-04-09",
-            "payment":10568.57,
-            "principal_paid":9255.99,
-            "interest_paid":1312.57,
-            "remaining_balance":277123.77
-         },
-         {
-            "date":"2023-05-09",
-            "payment":10568.57,
-            "principal_paid":9298.42,
-            "interest_paid":1270.15,
-            "remaining_balance":267825.36
-         },
-         {
-            "date":"2023-06-08",
-            "payment":10568.57,
-            "principal_paid":9341.03,
-            "interest_paid":1227.53,
-            "remaining_balance":258484.32
-         },
-         {
-            "date":"2023-07-08",
-            "payment":10568.57,
-            "principal_paid":9383.85,
-            "interest_paid":1184.72,
-            "remaining_balance":249100.48
-         },
-         {
-            "date":"2023-08-07",
-            "payment":10568.57,
-            "principal_paid":9426.86,
-            "interest_paid":1141.71,
-            "remaining_balance":239673.62
-         },
-         {
-            "date":"2023-09-06",
-            "payment":10568.57,
-            "principal_paid":9470.06,
-            "interest_paid":1098.5,
-            "remaining_balance":230203.56
-         },
-         {
-            "date":"2023-10-06",
-            "payment":10568.57,
-            "principal_paid":9513.47,
-            "interest_paid":1055.1,
-            "remaining_balance":220690.09
-         },
-         {
-            "date":"2023-11-05",
-            "payment":10568.57,
-            "principal_paid":9557.07,
-            "interest_paid":1011.5,
-            "remaining_balance":211133.03
-         },
-         {
-            "date":"2023-12-05",
-            "payment":10568.57,
-            "principal_paid":9600.87,
-            "interest_paid":967.69,
-            "remaining_balance":201532.15
-         },
-         {
-            "date":"2024-01-04",
-            "payment":10568.57,
-            "principal_paid":9644.88,
-            "interest_paid":923.69,
-            "remaining_balance":191887.28
-         },
-         {
-            "date":"2024-02-03",
-            "payment":10568.57,
-            "principal_paid":9689.08,
-            "interest_paid":879.48,
-            "remaining_balance":182198.19
-         },
-         {
-            "date":"2024-03-04",
-            "payment":10568.57,
-            "principal_paid":9733.49,
-            "interest_paid":835.08,
-            "remaining_balance":172464.7
-         },
-         {
-            "date":"2024-04-03",
-            "payment":10568.57,
-            "principal_paid":9778.1,
-            "interest_paid":790.46,
-            "remaining_balance":162686.6
-         },
-         {
-            "date":"2024-05-03",
-            "payment":10568.57,
-            "principal_paid":9822.92,
-            "interest_paid":745.65,
-            "remaining_balance":152863.68
-         },
-         {
-            "date":"2024-06-02",
-            "payment":10568.57,
-            "principal_paid":9867.94,
-            "interest_paid":700.63,
-            "remaining_balance":142995.74
-         },
-         {
-            "date":"2024-07-02",
-            "payment":10568.57,
-            "principal_paid":9913.17,
-            "interest_paid":655.4,
-            "remaining_balance":133082.57
-         },
-         {
-            "date":"2024-08-01",
-            "payment":10568.57,
-            "principal_paid":9958.6,
-            "interest_paid":609.96,
-            "remaining_balance":123123.97
-         },
-         {
-            "date":"2024-08-31",
-            "payment":10568.57,
-            "principal_paid":10004.25,
-            "interest_paid":564.32,
-            "remaining_balance":113119.72
-         },
-         {
-            "date":"2024-09-30",
-            "payment":10568.57,
-            "principal_paid":10050.1,
-            "interest_paid":518.47,
-            "remaining_balance":103069.62
-         },
-         {
-            "date":"2024-10-30",
-            "payment":10568.57,
-            "principal_paid":10096.16,
-            "interest_paid":472.4,
-            "remaining_balance":92973.46
-         },
-         {
-            "date":"2024-11-29",
-            "payment":10568.57,
-            "principal_paid":10142.44,
-            "interest_paid":426.13,
-            "remaining_balance":82831.02
-         },
-         {
-            "date":"2024-12-29",
-            "payment":10568.57,
-            "principal_paid":10188.92,
-            "interest_paid":379.64,
-            "remaining_balance":72642.1
-         },
-         {
-            "date":"2025-01-28",
-            "payment":10568.57,
-            "principal_paid":10235.62,
-            "interest_paid":332.94,
-            "remaining_balance":62406.48
-         },
-         {
-            "date":"2025-02-27",
-            "payment":10568.57,
-            "principal_paid":10282.54,
-            "interest_paid":286.03,
-            "remaining_balance":52123.94
-         },
-         {
-            "date":"2025-03-29",
-            "payment":10568.57,
-            "principal_paid":10329.66,
-            "interest_paid":238.9,
-            "remaining_balance":41794.27
-         },
-         {
-            "date":"2025-04-28",
-            "payment":10568.57,
-            "principal_paid":10377.01,
-            "interest_paid":191.56,
-            "remaining_balance":31417.27
-         },
-         {
-            "date":"2025-05-28",
-            "payment":10568.57,
-            "principal_paid":10424.57,
-            "interest_paid":144.0,
-            "remaining_balance":20992.7
-         },
-         {
-            "date":"2025-06-27",
-            "payment":10568.57,
-            "principal_paid":10472.35,
-            "interest_paid":96.22,
-            "remaining_balance":10520.35
-         },
-         {
-            "date":"2025-07-27",
-            "payment":10568.57,
-            "principal_paid":10520.35,
-            "interest_paid":48.22,
-            "remaining_balance":0.0
-         }
-      ]
-   ]
+	"Loans": {
+		"L001": [
+			{
+				"date": "2022-09-11",
+				"payment": 4529.39,
+				"principal_paid": 3841.89,
+				"interest_paid": 687.5,
+				"remaining_balance": 146158.11
+			},
+			{
+				"date": "2022-10-11",
+				"payment": 4529.39,
+				"principal_paid": 3859.49,
+				"interest_paid": 669.89,
+				"remaining_balance": 142298.62
+			},
+			{
+				"date": "2022-11-10",
+				"payment": 4529.39,
+				"principal_paid": 3877.18,
+				"interest_paid": 652.2,
+				"remaining_balance": 138421.44
+			},
+			{
+				"date": "2022-12-10",
+				"payment": 4529.39,
+				"principal_paid": 3894.95,
+				"interest_paid": 634.43,
+				"remaining_balance": 134526.48
+			},
+			{
+				"date": "2023-01-09",
+				"payment": 4529.39,
+				"principal_paid": 3912.81,
+				"interest_paid": 616.58,
+				"remaining_balance": 130613.68
+			},
+			{
+				"date": "2023-02-08",
+				"payment": 4529.39,
+				"principal_paid": 3930.74,
+				"interest_paid": 598.65,
+				"remaining_balance": 126682.94
+			},
+			{
+				"date": "2023-03-10",
+				"payment": 4529.39,
+				"principal_paid": 3948.76,
+				"interest_paid": 580.63,
+				"remaining_balance": 122734.18
+			},
+			{
+				"date": "2023-04-09",
+				"payment": 4529.39,
+				"principal_paid": 3966.85,
+				"interest_paid": 562.53,
+				"remaining_balance": 118767.33
+			},
+			{
+				"date": "2023-05-09",
+				"payment": 4529.39,
+				"principal_paid": 3985.04,
+				"interest_paid": 544.35,
+				"remaining_balance": 114782.3
+			},
+			{
+				"date": "2023-06-08",
+				"payment": 4529.39,
+				"principal_paid": 4003.3,
+				"interest_paid": 526.09,
+				"remaining_balance": 110779.0
+			},
+			{
+				"date": "2023-07-08",
+				"payment": 4529.39,
+				"principal_paid": 4021.65,
+				"interest_paid": 507.74,
+				"remaining_balance": 106757.35
+			},
+			{
+				"date": "2023-08-07",
+				"payment": 4529.39,
+				"principal_paid": 4040.08,
+				"interest_paid": 489.3,
+				"remaining_balance": 102717.27
+			},
+			{
+				"date": "2023-09-06",
+				"payment": 4529.39,
+				"principal_paid": 4058.6,
+				"interest_paid": 470.79,
+				"remaining_balance": 98658.67
+			},
+			{
+				"date": "2023-10-06",
+				"payment": 4529.39,
+				"principal_paid": 4077.2,
+				"interest_paid": 452.19,
+				"remaining_balance": 94581.47
+			},
+			{
+				"date": "2023-11-05",
+				"payment": 4529.39,
+				"principal_paid": 4095.89,
+				"interest_paid": 433.5,
+				"remaining_balance": 90485.58
+			},
+			{
+				"date": "2023-12-05",
+				"payment": 4529.39,
+				"principal_paid": 4114.66,
+				"interest_paid": 414.73,
+				"remaining_balance": 86370.92
+			},
+			{
+				"date": "2024-01-04",
+				"payment": 4529.39,
+				"principal_paid": 4133.52,
+				"interest_paid": 395.87,
+				"remaining_balance": 82237.4
+			},
+			{
+				"date": "2024-02-03",
+				"payment": 4529.39,
+				"principal_paid": 4152.46,
+				"interest_paid": 376.92,
+				"remaining_balance": 78084.94
+			},
+			{
+				"date": "2024-03-04",
+				"payment": 4529.39,
+				"principal_paid": 4171.5,
+				"interest_paid": 357.89,
+				"remaining_balance": 73913.44
+			},
+			{
+				"date": "2024-04-03",
+				"payment": 4529.39,
+				"principal_paid": 4190.62,
+				"interest_paid": 338.77,
+				"remaining_balance": 69722.83
+			},
+			{
+				"date": "2024-05-03",
+				"payment": 4529.39,
+				"principal_paid": 4209.82,
+				"interest_paid": 319.56,
+				"remaining_balance": 65513.01
+			},
+			{
+				"date": "2024-06-02",
+				"payment": 4529.39,
+				"principal_paid": 4229.12,
+				"interest_paid": 300.27,
+				"remaining_balance": 61283.89
+			},
+			{
+				"date": "2024-07-02",
+				"payment": 4529.39,
+				"principal_paid": 4248.5,
+				"interest_paid": 280.88,
+				"remaining_balance": 57035.39
+			},
+			{
+				"date": "2024-08-01",
+				"payment": 4529.39,
+				"principal_paid": 4267.97,
+				"interest_paid": 261.41,
+				"remaining_balance": 52767.42
+			},
+			{
+				"date": "2024-08-31",
+				"payment": 4529.39,
+				"principal_paid": 4287.53,
+				"interest_paid": 241.85,
+				"remaining_balance": 48479.88
+			},
+			{
+				"date": "2024-09-30",
+				"payment": 4529.39,
+				"principal_paid": 4307.19,
+				"interest_paid": 222.2,
+				"remaining_balance": 44172.69
+			},
+			{
+				"date": "2024-10-30",
+				"payment": 4529.39,
+				"principal_paid": 4326.93,
+				"interest_paid": 202.46,
+				"remaining_balance": 39845.77
+			},
+			{
+				"date": "2024-11-29",
+				"payment": 4529.39,
+				"principal_paid": 4346.76,
+				"interest_paid": 182.63,
+				"remaining_balance": 35499.01
+			},
+			{
+				"date": "2024-12-29",
+				"payment": 4529.39,
+				"principal_paid": 4366.68,
+				"interest_paid": 162.7,
+				"remaining_balance": 31132.33
+			},
+			{
+				"date": "2025-01-28",
+				"payment": 4529.39,
+				"principal_paid": 4386.7,
+				"interest_paid": 142.69,
+				"remaining_balance": 26745.63
+			},
+			{
+				"date": "2025-02-27",
+				"payment": 4529.39,
+				"principal_paid": 4406.8,
+				"interest_paid": 122.58,
+				"remaining_balance": 22338.83
+			},
+			{
+				"date": "2025-03-29",
+				"payment": 4529.39,
+				"principal_paid": 4427.0,
+				"interest_paid": 102.39,
+				"remaining_balance": 17911.83
+			},
+			{
+				"date": "2025-04-28",
+				"payment": 4529.39,
+				"principal_paid": 4447.29,
+				"interest_paid": 82.1,
+				"remaining_balance": 13464.54
+			},
+			{
+				"date": "2025-05-28",
+				"payment": 4529.39,
+				"principal_paid": 4467.67,
+				"interest_paid": 61.71,
+				"remaining_balance": 8996.87
+			},
+			{
+				"date": "2025-06-27",
+				"payment": 4529.39,
+				"principal_paid": 4488.15,
+				"interest_paid": 41.24,
+				"remaining_balance": 4508.72
+			},
+			{
+				"date": "2025-07-27",
+				"payment": 4529.39,
+				"principal_paid": 4508.72,
+				"interest_paid": 20.66,
+				"remaining_balance": 0.0
+			}
+		],
+		"L002": [
+			{
+				"date": "2022-09-11",
+				"payment": 10568.57,
+				"principal_paid": 8964.4,
+				"interest_paid": 1604.17,
+				"remaining_balance": 341035.6
+			},
+			{
+				"date": "2022-10-11",
+				"payment": 10568.57,
+				"principal_paid": 9005.49,
+				"interest_paid": 1563.08,
+				"remaining_balance": 332030.12
+			},
+			{
+				"date": "2022-11-10",
+				"payment": 10568.57,
+				"principal_paid": 9046.76,
+				"interest_paid": 1521.8,
+				"remaining_balance": 322983.35
+			},
+			{
+				"date": "2022-12-10",
+				"payment": 10568.57,
+				"principal_paid": 9088.23,
+				"interest_paid": 1480.34,
+				"remaining_balance": 313895.13
+			},
+			{
+				"date": "2023-01-09",
+				"payment": 10568.57,
+				"principal_paid": 9129.88,
+				"interest_paid": 1438.69,
+				"remaining_balance": 304765.25
+			},
+			{
+				"date": "2023-02-08",
+				"payment": 10568.57,
+				"principal_paid": 9171.72,
+				"interest_paid": 1396.84,
+				"remaining_balance": 295593.52
+			},
+			{
+				"date": "2023-03-10",
+				"payment": 10568.57,
+				"principal_paid": 9213.76,
+				"interest_paid": 1354.8,
+				"remaining_balance": 286379.76
+			},
+			{
+				"date": "2023-04-09",
+				"payment": 10568.57,
+				"principal_paid": 9255.99,
+				"interest_paid": 1312.57,
+				"remaining_balance": 277123.77
+			},
+			{
+				"date": "2023-05-09",
+				"payment": 10568.57,
+				"principal_paid": 9298.42,
+				"interest_paid": 1270.15,
+				"remaining_balance": 267825.36
+			},
+			{
+				"date": "2023-06-08",
+				"payment": 10568.57,
+				"principal_paid": 9341.03,
+				"interest_paid": 1227.53,
+				"remaining_balance": 258484.32
+			},
+			{
+				"date": "2023-07-08",
+				"payment": 10568.57,
+				"principal_paid": 9383.85,
+				"interest_paid": 1184.72,
+				"remaining_balance": 249100.48
+			},
+			{
+				"date": "2023-08-07",
+				"payment": 10568.57,
+				"principal_paid": 9426.86,
+				"interest_paid": 1141.71,
+				"remaining_balance": 239673.62
+			},
+			{
+				"date": "2023-09-06",
+				"payment": 10568.57,
+				"principal_paid": 9470.06,
+				"interest_paid": 1098.5,
+				"remaining_balance": 230203.56
+			},
+			{
+				"date": "2023-10-06",
+				"payment": 10568.57,
+				"principal_paid": 9513.47,
+				"interest_paid": 1055.1,
+				"remaining_balance": 220690.09
+			},
+			{
+				"date": "2023-11-05",
+				"payment": 10568.57,
+				"principal_paid": 9557.07,
+				"interest_paid": 1011.5,
+				"remaining_balance": 211133.03
+			},
+			{
+				"date": "2023-12-05",
+				"payment": 10568.57,
+				"principal_paid": 9600.87,
+				"interest_paid": 967.69,
+				"remaining_balance": 201532.15
+			},
+			{
+				"date": "2024-01-04",
+				"payment": 10568.57,
+				"principal_paid": 9644.88,
+				"interest_paid": 923.69,
+				"remaining_balance": 191887.28
+			},
+			{
+				"date": "2024-02-03",
+				"payment": 10568.57,
+				"principal_paid": 9689.08,
+				"interest_paid": 879.48,
+				"remaining_balance": 182198.19
+			},
+			{
+				"date": "2024-03-04",
+				"payment": 10568.57,
+				"principal_paid": 9733.49,
+				"interest_paid": 835.08,
+				"remaining_balance": 172464.7
+			},
+			{
+				"date": "2024-04-03",
+				"payment": 10568.57,
+				"principal_paid": 9778.1,
+				"interest_paid": 790.46,
+				"remaining_balance": 162686.6
+			},
+			{
+				"date": "2024-05-03",
+				"payment": 10568.57,
+				"principal_paid": 9822.92,
+				"interest_paid": 745.65,
+				"remaining_balance": 152863.68
+			},
+			{
+				"date": "2024-06-02",
+				"payment": 10568.57,
+				"principal_paid": 9867.94,
+				"interest_paid": 700.63,
+				"remaining_balance": 142995.74
+			},
+			{
+				"date": "2024-07-02",
+				"payment": 10568.57,
+				"principal_paid": 9913.17,
+				"interest_paid": 655.4,
+				"remaining_balance": 133082.57
+			},
+			{
+				"date": "2024-08-01",
+				"payment": 10568.57,
+				"principal_paid": 9958.6,
+				"interest_paid": 609.96,
+				"remaining_balance": 123123.97
+			},
+			{
+				"date": "2024-08-31",
+				"payment": 10568.57,
+				"principal_paid": 10004.25,
+				"interest_paid": 564.32,
+				"remaining_balance": 113119.72
+			},
+			{
+				"date": "2024-09-30",
+				"payment": 10568.57,
+				"principal_paid": 10050.1,
+				"interest_paid": 518.47,
+				"remaining_balance": 103069.62
+			},
+			{
+				"date": "2024-10-30",
+				"payment": 10568.57,
+				"principal_paid": 10096.16,
+				"interest_paid": 472.4,
+				"remaining_balance": 92973.46
+			},
+			{
+				"date": "2024-11-29",
+				"payment": 10568.57,
+				"principal_paid": 10142.44,
+				"interest_paid": 426.13,
+				"remaining_balance": 82831.02
+			},
+			{
+				"date": "2024-12-29",
+				"payment": 10568.57,
+				"principal_paid": 10188.92,
+				"interest_paid": 379.64,
+				"remaining_balance": 72642.1
+			},
+			{
+				"date": "2025-01-28",
+				"payment": 10568.57,
+				"principal_paid": 10235.62,
+				"interest_paid": 332.94,
+				"remaining_balance": 62406.48
+			},
+			{
+				"date": "2025-02-27",
+				"payment": 10568.57,
+				"principal_paid": 10282.54,
+				"interest_paid": 286.03,
+				"remaining_balance": 52123.94
+			},
+			{
+				"date": "2025-03-29",
+				"payment": 10568.57,
+				"principal_paid": 10329.66,
+				"interest_paid": 238.9,
+				"remaining_balance": 41794.27
+			},
+			{
+				"date": "2025-04-28",
+				"payment": 10568.57,
+				"principal_paid": 10377.01,
+				"interest_paid": 191.56,
+				"remaining_balance": 31417.27
+			},
+			{
+				"date": "2025-05-28",
+				"payment": 10568.57,
+				"principal_paid": 10424.57,
+				"interest_paid": 144.0,
+				"remaining_balance": 20992.7
+			},
+			{
+				"date": "2025-06-27",
+				"payment": 10568.57,
+				"principal_paid": 10472.35,
+				"interest_paid": 96.22,
+				"remaining_balance": 10520.35
+			},
+			{
+				"date": "2025-07-27",
+				"payment": 10568.57,
+				"principal_paid": 10520.35,
+				"interest_paid": 48.22,
+				"remaining_balance": 0.0
+			}
+		]
+	}
 }
