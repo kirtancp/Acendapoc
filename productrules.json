@@ -93,6 +93,8 @@
 			"Gender": "male has to pay $1 per month more than others on base premium",
 			"Smoker": "Non smoker has to pay $2 per month less than othes on base premium",
 			"Occupation": "Professional has to pay $0.5 per month less than othes on base premium",
+			"Score": "Less than 800 then increase the monthly premium by $1",
+			"Loans": "Repayments missed more than 3 than increase the monthly premium by $5",
 			"adjustment_frequency": "Annually",
 			"payment_options": [
 				"Annual",
