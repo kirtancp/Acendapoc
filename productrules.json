@@ -1,114 +1,112 @@
 {
-    "Product Rules": 
-    {
-        "product_name": "NAB Mortgage Protect",
-        "eligibility": {
-            "age_range": [
-                18,
-                59
-            ],
-            "residency": "Australian permanent resident",
-            "application_window": "Up to 60 days after loan draw down"
-        },
-        "covers": {
-            "Life Cover": {
-                "benefit": {
-                    "type": "Lump Sum",
-                    "maximum": 1000000,
-                    "terminal_illness_payout": "100% of Life Cover",
-                    "adjustment": "Automatically adjusted to loan amount annually"
-                },
-                "loan_types": {
-                    "Principal and Interest": "Loan amount paid out up to $1 million",
-                    "Interest Only": "Loan amount paid out up to $1 million",
-                    "Line of Credit": "Total loan limit paid out up to $1 million"
-                },
-                "exclusions": [
-                    "Pre-Existing Condition",
-                    "Suicide or attempted suicide within 13 months",
-                    "Intentional self-inflicted injury or illness",
-                    "Under influence of alcohol or drugs",
-                    "Involvement in criminal activity"
-                ]
-            },
-            "Disablement Cover": {
-                "benefit": {
-                    "type": "Monthly",
-                    "maximum": 10000,
-                    "duration_months": 24,
-                    "waiting_period_days": 30,
-                    "refund_premiums": true,
-                    "overseas_coverage": {
-                        "Australia": 24,
-                        "Overseas": 6
-                    }
-                },
-                "loan_types": {
-                    "Principal and Interest": "Monthly repayments up to $10,000",
-                    "Interest Only": "0.375% of Life Cover up to $3,750",
-                    "Line of Credit": "0.375% of Life Cover up to $3,750"
-                },
-                "exclusions": [
-                    "Pre-Existing Condition",
-                    "Sickness within first month of policy",
-                    "Intentional self-inflicted injury or illness",
-                    "Professional racing (except foot racing)",
-                    "Under influence of alcohol or drugs",
-                    "Involvement in criminal activity",
-                    "War or warlike operations"
-                ]
-            },
-            "Involuntary Unemployment Cover": {
-                "benefit": {
-                    "type": "Monthly",
-                    "maximum": 10000,
-                    "duration_days": 90,
-                    "waiting_period_days": 30,
-                    "claims_per_year": 1,
-                    "total_claims": 3,
-                    "refund_premiums": true
-                },
-                "loan_types": {
-                    "Principal and Interest": "Monthly repayments up to $10,000",
-                    "Interest Only": "0.375% of Life Cover up to $3,750",
-                    "Line of Credit": "0.375% of Life Cover up to $3,750"
-                },
-                "exclusions": [
-                    "Under influence of alcohol or drugs",
-                    "Involvement in criminal activity",
-                    "Notification of unemployment within 60 days of policy start",
-                    "End of fixed term, seasonal or casual work",
-                    "Voluntary resignation",
-                    "Partnership position ceasing automatically",
-                    "Unemployment due to industrial action",
-                    "Uncomplicated pregnancy or childbirth",
-                    "Employment by family",
-                    "Temporary business closure for self-employed"
-                ]
-            }
-        },
-        "premium_calculation": {
-            "factors": [
-                "Loan account balance or limit",
-                "Minimum loan repayment",
-                "Age",
-                "Gender"
-            ],
-            "minimum_annual_premium": 150,
-            "adjustment_frequency": "Annually",
-            "payment_options": [
-                "Annual",
-                "Monthly"
-            ],
-            "payment_methods": [
-                "Credit Card",
-                "Direct Debit"
-            ],
-            "non_payment_policy": {
-                "reminder_after_days": 30,
-                "cancellation_after_days": 60
-            },
-            "commission": "Up to 20% to NAB"
-        }
-    }
+	"Product Rules": {
+		"product_name": "NAB Mortgage Protect",
+		"eligibility": {
+			"age_range": [
+				18,
+				59
+			],
+			"residency": "Australian permanent resident",
+			"application_window": "Up to 60 days after loan draw down"
+		},
+		"covers": {
+			"Life Cover": {
+				"benefit": {
+					"type": "Lump Sum",
+					"maximum": 1000000,
+					"terminal_illness_payout": "100% of Life Cover",
+					"adjustment": "Automatically adjusted to loan amount annually"
+				},
+				"loan_types": {
+					"Principal and Interest": "Loan amount paid out up to $1 million",
+					"Interest Only": "Loan amount paid out up to $1 million",
+					"Line of Credit": "Total loan limit paid out up to $1 million"
+				},
+				"exclusions": [
+					"Pre-Existing Condition",
+					"Suicide or attempted suicide within 13 months",
+					"Intentional self-inflicted injury or illness",
+					"Under influence of alcohol or drugs",
+					"Involvement in criminal activity"
+				]
+			},
+			"Disablement Cover": {
+				"benefit": {
+					"type": "Monthly",
+					"maximum": 10000,
+					"duration_months": 24,
+					"waiting_period_days": 30,
+					"refund_premiums": true,
+					"overseas_coverage": {
+						"Australia": 24,
+						"Overseas": 6
+					}
+				},
+				"loan_types": {
+					"Principal and Interest": "Monthly repayments up to $10,000",
+					"Interest Only": "0.375% of Life Cover up to $3,750",
+					"Line of Credit": "0.375% of Life Cover up to $3,750"
+				},
+				"exclusions": [
+					"Pre-Existing Condition",
+					"Sickness within first month of policy",
+					"Intentional self-inflicted injury or illness",
+					"Professional racing (except foot racing)",
+					"Under influence of alcohol or drugs",
+					"Involvement in criminal activity",
+					"War or warlike operations"
+				]
+			},
+			"Involuntary Unemployment Cover": {
+				"benefit": {
+					"type": "Monthly",
+					"maximum": 10000,
+					"duration_days": 90,
+					"waiting_period_days": 30,
+					"claims_per_year": 1,
+					"total_claims": 3,
+					"refund_premiums": true
+				},
+				"loan_types": {
+					"Principal and Interest": "Monthly repayments up to $10,000",
+					"Interest Only": "0.375% of Life Cover up to $3,750",
+					"Line of Credit": "0.375% of Life Cover up to $3,750"
+				},
+				"exclusions": [
+					"Under influence of alcohol or drugs",
+					"Involvement in criminal activity",
+					"Notification of unemployment within 60 days of policy start",
+					"End of fixed term, seasonal or casual work",
+					"Voluntary resignation",
+					"Partnership position ceasing automatically",
+					"Unemployment due to industrial action",
+					"Uncomplicated pregnancy or childbirth",
+					"Employment by family",
+					"Temporary business closure for self-employed"
+				]
+			}
+		},
+		"premium_calculation": {
+			"minimum_annual_premium": 150,
+			"base_premium": "$6 per month for every 100000",
+			"Age": "1% increase per month on base premium for every 5 years from minimum age",
+			"Gender": "male has to pay $1 per month more than others on base premium",
+			"Smoker": "Non smoker has to pay $2 per month less than othes on base premium",
+			"Occupation": "Professional has to pay $0.5 per month less than othes on base premium",
+			"adjustment_frequency": "Annually",
+			"payment_options": [
+				"Annual",
+				"Monthly"
+			],
+			"payment_methods": [
+				"Credit Card",
+				"Direct Debit"
+			],
+			"non_payment_policy": {
+				"reminder_after_days": 30,
+				"cancellation_after_days": 60
+			},
+			"commission": "Up to 20% to NAB"
+		}
+	}
 }
