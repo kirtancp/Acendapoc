@@ -89,7 +89,7 @@
 		"premium_calculation": {
 			"minimum_annual_premium": 150,
 			"base_premium": "$12.5 per month for every 1000",
-			"Age": "1% increase per month on base premium for every 5 years from minimum age",
+			"Age": "$1 increase per month on base premium for every 5 years from minimum age",
 			"Gender": "male has to pay $1 per month more than others on base premium",
 			"Smoker": "Non smoker has to pay $2 per month less than othes on base premium",
 			"Occupation": "Professional has to pay $0.5 per month less than othes on base premium",
