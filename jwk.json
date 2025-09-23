@@ -1,0 +1,11 @@
+{
+	"keys":[
+	{
+		"kty": "RSA",
+		"n": "teDp-7CT5ZZwSe1DFHm-YPyL0-fdVWUzkuW9TpSUnksCgFo8aDpXooYQ5XMD7AjjcvFBsumE3DoiTtT4QrCFpspNRwA4NdtDM0VcRE6fQj6VhGxNeJ-UqbtAuJZZn0JohZTjnp2rm2WPTXiHOMVHnH8yKnnFSJ8nGLCORmxsPwbCs9TfLSF2yPr30mqmcKjuH8moiBzlJN785SShmcKfjp5-XhqatjuBBSbxg5hNXZC8iPJ7-QqYzS6SIrbmtC4MO8uOPoxcJFu8Nc2AerE2PDCs-WhfozvyYnIsz_BgMQlTeiT1ZqfvRP36h2HmTl1WpxsffxCfMQlXF1riJ5-QEw",
+		"e": "AQAB",
+		"use": "sig",
+		"kid": "AcendaPoc@0192",
+		"alg": "R256"
+	}]
+}
